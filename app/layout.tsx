@@ -13,7 +13,7 @@ variable:'--font-sans'
 
 
 export const metadata: Metadata = {
-  title: "Carepluse management sytem ",
+  title: "AfyaBook Booking sytem ",
   description: "Hosptial Management System",
 };
 
